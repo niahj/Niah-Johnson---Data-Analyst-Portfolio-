@@ -1,1 +1,1 @@
-# Niah-Johnson - Data Analyst Portfolio
+# Niah Johnson - Data Analyst Portfolio
