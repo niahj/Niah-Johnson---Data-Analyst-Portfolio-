@@ -10,7 +10,7 @@ https://app.datacamp.com/workspace/w/99892d13-cf2a-4cb6-a514-8ba4e9d6ac69/edit
 For this project I used Python Matplotlib library to visualize Spotify's top hit songs from 2010 to 2019. 
 https://app.datacamp.com/workspace/w/cf2be36d-568a-41ba-9119-16a22aa7ade5/edit
 
-# Tableau:
+* Tableau *
 
 # C++ Shopping Cart Interface: 
 Gives user the option to add, remove, or edit items in Shopping Cart. <br />
