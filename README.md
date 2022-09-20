@@ -11,7 +11,7 @@ For this project I used Python Matplotlib library to visualize Spotify's top hit
 * What genre was most popular in 2015?
 * Did beats per minute in a song have any correaltion with its popularity?
 * Was there a time when country songs were more popular than hip-pop? <br />
-Notebook: https://app.datacamp.com/workspace/w/cf2be36d-568a-41ba-9119-16a22aa7ade5/edit
+* Notebook: https://app.datacamp.com/workspace/w/cf2be36d-568a-41ba-9119-16a22aa7ade5/edit
 
 # Tableau 
 
