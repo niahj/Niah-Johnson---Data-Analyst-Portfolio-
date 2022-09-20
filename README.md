@@ -9,7 +9,7 @@ https://app.datacamp.com/workspace/w/cf2be36d-568a-41ba-9119-16a22aa7ade5/edit
 
 # Tableau
 
-# C++ Shopping Cart Interface
+<ins> C++ Shopping Cart Interface
 Gives user the option to add, remove, or edit items in Shopping Cart. <br />
 Displays content of shopping cart and stores user selection to help manage inventory. <br />
 [Shopping Cart Interface.zip](https://github.com/niahj/Niah-Johnson---Data-Analyst-Portfolio-/files/9610644/Shopping.Cart.Interface.zip)
