@@ -13,7 +13,9 @@ For this project I used Python Matplotlib library to visualize Spotify's top hit
 * Was there a time when country songs were more popular than hip-pop? <br />
 * Notebook: https://app.datacamp.com/workspace/w/cf2be36d-568a-41ba-9119-16a22aa7ade5/edit
 
-# Tableau 
+# Tableau Dashboard using Pneumonia Dataset:
+![P Dash sc](https://user-images.githubusercontent.com/62308696/192120639-c39c375b-4cd4-4bfc-a76b-fb2b9363b9bf.png)
+
 
 # C++ Shopping Cart Interface: 
 In this project I was assigned the role of creating a shopping cart interface for an e-commerce business. <br />
